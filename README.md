@@ -6,4 +6,6 @@
 
 效果图：![img](https://github.com/Yuhn-z/graphEditor/raw/master/images/gh1.png)
 
+比较乱，未来会继续完善。。。
+
 
